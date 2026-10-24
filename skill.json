@@ -1,0 +1,12 @@
+{
+  "name": "genpark-dynamic-prompt-few-shot-selector-skill",
+  "version": "1.0.0",
+  "description": "Dynamic prompt few-shot exemplar selector optimizing semantic relevance, diversity MMR, and token budgets",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["few-shot", "prompt-engineering", "in-context-learning", "mmr-diversity", "token-budget", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
